@@ -1,3 +1,6 @@
+
 Test whether git add *.txt copies all .txt files to staging zone.
 
 Listing two files, e.g., git add paper2.txt paper3.txt causes the first one to overwrite the second.
+
+These are Riddhi's edits.
